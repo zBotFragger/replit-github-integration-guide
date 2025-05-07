@@ -1,2 +1,2 @@
 # replit-github-integration-guide
-This is a basic tutorial for you, will can edit remote Github repositories With Replit Dev Tool, a Dev Tool for mobile developme
+A concise tutorial demonstrating how to use Replit's Dev Tools to clone, edit, commit, and push changes to GitHub — directly from your browser or mobile device.
